@@ -1,4 +1,4 @@
-# VEGA RESONANCE
+# Vega Resonance
 
 **A Conceptual Framework in the Resonance Data and QIRC Paradigm**
 
@@ -14,7 +14,7 @@ Year: 2025
 
 ## Abstract
 
-VEGA RESONANCE is a conceptual framework that models meaning as a resonant state 
+Vega Resonance is a conceptual framework that models meaning as a resonant state 
 with temporal coherence. It is part of the Vega Continuum research framework.
 
 ---
