@@ -1,4 +1,4 @@
-# VEGA RESONANCE: A Conceptual White Paper
+# Vega Resonance: A Conceptual White Paper
 
 **A Conceptual White Paper**
 
@@ -15,19 +15,19 @@ ADAM EREN VEGA – Æ –
 
 ## Executive Summary
 
-Dieses White Paper stellt VEGA RESONANCE vor – ein konzeptionelles Framework innerhalb des Resonance Data und QIRC Paradigmas. VEGA RESONANCE modelliert Bedeutung als resonanten Zustand mit zeitlicher Kohärenz.
+Dieses White Paper stellt Vega Resonance vor – ein konzeptionelles Framework innerhalb des Resonance Data und QIRC Paradigmas. Vega Resonance modelliert Bedeutung als resonanten Zustand mit zeitlicher Kohärenz.
 
 ---
 
 ## 1. Motivation
 
-Heutige KI-Systeme können Information verarbeiten, aber keine Erkenntnis oder Weisheit über Zeit bewahren. VEGA RESONANCE adressiert diese Lücke konzeptionell.
+Heutige KI-Systeme können Information verarbeiten, aber keine Erkenntnis oder Weisheit über Zeit bewahren. Vega Resonance adressiert diese Lücke konzeptionell.
 
 ---
 
-## 2. Definition of VEGA RESONANCE
+## 2. Definition of Vega Resonance
 
-VEGA RESONANCE ist ein konzeptioneller Rahmen, der Bedeutung nicht als statischen Punkt, sondern als dynamischen, resonanten Zustand beschreibt. Relevanz entsteht aus Resonanzstärke, nicht aus Distanz.
+Vega Resonance ist ein konzeptioneller Rahmen, der Bedeutung nicht als statischen Punkt, sondern als dynamischen, resonanten Zustand beschreibt. Relevanz entsteht aus Resonanzstärke, nicht aus Distanz.
 
 ---
 
@@ -51,7 +51,7 @@ VEGA RESONANCE ist ein konzeptioneller Rahmen, der Bedeutung nicht als statische
 
 ## 5. Relationship to Resonance Data and QIRC
 
-VEGA RESONANCE ist eingebettet in das Vega-Continuum und erweitert die Konzepte von Resonance Data (RD) und Quantum-Inspired Resonance Computing (QIRC).
+Vega Resonance ist eingebettet in das Vega-Continuum und erweitert die Konzepte von Resonance Data (RD) und Quantum-Inspired Resonance Computing (QIRC).
 
 ---
 
@@ -75,7 +75,7 @@ Dieses White Paper folgt strikt dem VSP:
 
 ## 7. Beitrag & Bedeutung
 
-Diese Arbeit etabliert VEGA RESONANCE als neuen konzeptionellen Begriff, setzt Prior Art ohne operative Offenlegung und erweitert die wissenschaftliche Sprache für bedeutungszentrierte KI.
+Diese Arbeit etabliert Vega Resonance als neuen konzeptionellen Begriff, setzt Prior Art ohne operative Offenlegung und erweitert die wissenschaftliche Sprache für bedeutungszentrierte KI.
 
 ---
 
